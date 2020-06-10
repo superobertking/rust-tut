@@ -14,17 +14,23 @@ This tutorial is suitable for those who have basic knowledge about at least one 
 
 ## Resources
 
-The code presented in each lecture resides in `/lec\d+/` folder.
+The code presented in each lecture resides in `/lec\d+/` folder. 
 
 The source code of the slides resides in the `slides` folder.
+To view the slides locally, you may start a simple http server (at the `slides`) folder with python:
+```bash
+$ python3 -m http.server 8000
+```
+Then open you browser and go to [127.0.0.1:8000](http://127.0.0.1:8000).
 
 Videos (in Chinese) will be recorded & uploaded onto Bilibili after each talk.
 
 ## Schedule
 
-|#| Date | Topic | Slides | Video |
+|#| Date | Topic | Video |
 |-|-|-|-|-|
-| 01 | | All The Basics | | |
+| 00 | 2020.03.28 | About Rust | [Bilibili](https://www.bilibili.com/video/BV1ti4y1b7xy) |
+| 01 | 2020.06.07 | All The Basics | |
 
 ## License
 
