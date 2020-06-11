@@ -28,9 +28,9 @@ Videos (in Chinese) will be recorded & uploaded onto Bilibili after each talk.
 ## Schedule
 
 |#| Date | Topic | Video |
-|-|-|-|-|-|
+|-|-|-|-|
 | 00 | 2020.03.28 | About Rust | [Bilibili](https://www.bilibili.com/video/BV1ti4y1b7xy) |
-| 01 | 2020.06.07 | All The Basics | |
+| 01 | 2020.06.07 | All The Basics | [Bilibili](https://b23.tv/BEUXuN) |
 
 ## License
 
