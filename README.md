@@ -31,6 +31,7 @@ Videos (in Chinese) will be recorded & uploaded onto Bilibili after each talk.
 |-|-|-|-|
 | 00 | 2020.03.28 | About Rust | [Bilibili](https://www.bilibili.com/video/BV1ti4y1b7xy) |
 | 01 | 2020.06.07 | All The Basics | [Bilibili](https://b23.tv/BEUXuN) |
+| 02 | 2020.06.14 | The three swords: Ownership, Borrowing & Lifetime | [Bilibili](https://www.bilibili.com/video/BV1vK411n7A6/) |
 
 ## License
 
